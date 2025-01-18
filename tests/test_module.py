@@ -1,1 +1,4 @@
-# here for future use...
+from cv import Blue
+
+if __name__ == '__main__':
+    pass
